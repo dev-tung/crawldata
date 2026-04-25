@@ -1,0 +1,9 @@
+    "admin",
+    "u2Bu 2eAk 7Pt1 7Evk yNnU 8Tmz"
+
+
+    $publisher = new WooPublisher(
+    "https://manhdungsports.com/wp-json",
+    "ck_840f3c0b7fe35728f83a4ba8a5a08c845577e138",
+    "cs_6d9d4dee6511a87969f53538cc3c1aad065615b0"
+);
